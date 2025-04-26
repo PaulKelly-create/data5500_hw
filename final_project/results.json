@@ -1,0 +1,159 @@
+{
+    "results": {
+        "AAPL_MeanReversion": {
+            "profit": 601.68,
+            "return_pct": 664.11,
+            "signal_today": "SELL"
+        },
+        "AAPL_SMA_Crossover": {
+            "profit": -287.62,
+            "return_pct": -317.46,
+            "signal_today": "SELL"
+        },
+        "AAPL_Momentum": {
+            "profit": 796.33,
+            "return_pct": 878.96,
+            "signal_today": null
+        },
+        "GOOG_MeanReversion": {
+            "profit": 108.6,
+            "return_pct": 60.16,
+            "signal_today": null
+        },
+        "GOOG_SMA_Crossover": {
+            "profit": -1935.76,
+            "return_pct": -1072.34,
+            "signal_today": "SELL"
+        },
+        "GOOG_Momentum": {
+            "profit": -1971.49,
+            "return_pct": -1092.13,
+            "signal_today": null
+        },
+        "ADBE_MeanReversion": {
+            "profit": 56.34,
+            "return_pct": 26.78,
+            "signal_today": null
+        },
+        "ADBE_SMA_Crossover": {
+            "profit": 4378.52,
+            "return_pct": 2080.8,
+            "signal_today": "BUY"
+        },
+        "ADBE_Momentum": {
+            "profit": 4005.4,
+            "return_pct": 1903.48,
+            "signal_today": null
+        },
+        "TSLA_MeanReversion": {
+            "profit": 398.71,
+            "return_pct": 384.15,
+            "signal_today": null
+        },
+        "TSLA_SMA_Crossover": {
+            "profit": -384.8,
+            "return_pct": -370.75,
+            "signal_today": "SELL"
+        },
+        "TSLA_Momentum": {
+            "profit": -2014.87,
+            "return_pct": -1941.26,
+            "signal_today": null
+        },
+        "MSFT_MeanReversion": {
+            "profit": -49.62,
+            "return_pct": -23.36,
+            "signal_today": null
+        },
+        "MSFT_SMA_Crossover": {
+            "profit": -2338.93,
+            "return_pct": -1101.05,
+            "signal_today": "SELL"
+        },
+        "MSFT_Momentum": {
+            "profit": -1740.09,
+            "return_pct": -819.15,
+            "signal_today": null
+        },
+        "NVDA_MeanReversion": {
+            "profit": -348.19,
+            "return_pct": -190.32,
+            "signal_today": null
+        },
+        "NVDA_SMA_Crossover": {
+            "profit": -1673.45,
+            "return_pct": -914.67,
+            "signal_today": "BUY"
+        },
+        "NVDA_Momentum": {
+            "profit": -3023.52,
+            "return_pct": -1652.59,
+            "signal_today": null
+        },
+        "AMZN_MeanReversion": {
+            "profit": 63.53,
+            "return_pct": 21.89,
+            "signal_today": null
+        },
+        "AMZN_SMA_Crossover": {
+            "profit": 747.47,
+            "return_pct": 257.6,
+            "signal_today": "SELL"
+        },
+        "AMZN_Momentum": {
+            "profit": 2096.53,
+            "return_pct": 722.53,
+            "signal_today": null
+        },
+        "META_MeanReversion": {
+            "profit": 621.75,
+            "return_pct": 581.84,
+            "signal_today": null
+        },
+        "META_SMA_Crossover": {
+            "profit": -799.71,
+            "return_pct": -748.37,
+            "signal_today": "SELL"
+        },
+        "META_Momentum": {
+            "profit": 39.8,
+            "return_pct": 37.24,
+            "signal_today": null
+        },
+        "NFLX_MeanReversion": {
+            "profit": -499.24,
+            "return_pct": -299.76,
+            "signal_today": null
+        },
+        "NFLX_SMA_Crossover": {
+            "profit": -718.71,
+            "return_pct": -431.53,
+            "signal_today": "SELL"
+        },
+        "NFLX_Momentum": {
+            "profit": -2723.54,
+            "return_pct": -1635.27,
+            "signal_today": null
+        },
+        "INTC_MeanReversion": {
+            "profit": 66.48,
+            "return_pct": 27.73,
+            "signal_today": null
+        },
+        "INTC_SMA_Crossover": {
+            "profit": -1079.15,
+            "return_pct": -450.04,
+            "signal_today": "SELL"
+        },
+        "INTC_Momentum": {
+            "profit": 40.47,
+            "return_pct": 16.88,
+            "signal_today": "SELL"
+        }
+    },
+    "best": {
+        "stock": "ADBE",
+        "strategy": "SMA_Crossover",
+        "profit": 4378.52
+    }
+}
